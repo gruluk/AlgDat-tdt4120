@@ -84,3 +84,28 @@ Rule of thumb
       O ≦ Θ(f(n)) (Big O)
       o < Θ(f(n)) (Small o)
       </pre>
+
+
+## Forelesning 2: Datastrukturer
+
+For å unngå grunnleggende kjøretidsfeller er det viktig å kunne organisere og strukturere
+data fornuftig. Her skal vi se på hvordan enkle strukturer kan implementeres
+i praksis, og hva vi vinner på å bruke dem i algoritmene våre.
+
+### Pensum: 
+- [ ] Kap. 10. Elementary data structures: Innledning og 10.1–10.3
+- [ ] Kap. 11. Hash tables: s. 253–264
+- [ ] Kap. 17. Amortized analysis: Innledning og s. 463–465 (tom. «at most 3»)
+
+### Læringsmål:
+- [ ] Forstå hvordan stakker og køer fungerer (Stack-Empty, Push, Pop, Enqueue, Dequeue)
+- [ ] Forstå hvordan lenkede lister fungerer *(List-Search, List-Insert, List-Delete, List-Delete0, List-Search0, List-Insert0)*
+- [ ] Forstå hvordan pekere og objekter kan implementeres
+- [ ] **Forstå hvordan direkte adressering og hashtabeller fungerer (Hash-Insert, Hash-Search)**
+- [ ] Forstå konfliktløsing ved kjeding (chaining) *(Chained-Hash-Insert, Chained-Hash-Search, Chained-Hash-Delete)*
+- [ ] Kjenne til grunnleggende hashfunksjoner
+- [ ] Vite at man for statiske datasett kan ha worst-case O(1) for søk
+- [ ] Kunne definere amortisert analyse
+- [ ] Forstå hvordan dynamiske tabeller fungerer
+
+## Notater
